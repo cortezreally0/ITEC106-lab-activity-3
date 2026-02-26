@@ -53,7 +53,7 @@
                         </thead>
                         <tbody class="text-white-50">
                             <tr>
-                                <td>2</td>
+                                <td>1</td>
                                 <td>users_v2</td>
                                 <td>user@example.com</td>
                                 <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Admin</span></td>
@@ -64,10 +64,43 @@
                                     <a href="#" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i></a>
                             </tr>
                             <tr>
-                                <td>1</td>
+                                <td>2</td>
                                 <td>logs_prod</td>
                                 <td>sample@sample.com</td>
-                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">User</span></td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Admin</span></td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Online</span></td>
+                                <td>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-eye"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-pencil"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i></a>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>logs_prod</td>
+                                <td>sample@sample.com</td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Admin</span></td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Online</span></td>
+                                <td>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-eye"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-pencil"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i></a>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>logs_prod</td>
+                                <td>sample@sample.com</td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Viewer</span></td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Online</span></td>
+                                <td>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-eye"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-pencil"></i></a>
+                                    <a href="#" class="btn btn-sm btn-outline-danger"><i class="bi bi-trash"></i></a>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>logs_prod</td>
+                                <td>sample@sample.com</td>
+                                <td><span class="badge bg-success bg-opacity-10 text-success border border-success border-opacity-25">Viewer</span></td>
                                 <td><span class="badge bg-danger bg-opacity-10 text-danger border border-danger border-opacity-25">Offline</span></td>
                                 <td>
                                     <a href="#" class="btn btn-sm btn-outline-light"><i class="bi bi-eye"></i></a>
